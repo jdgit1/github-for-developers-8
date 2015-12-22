@@ -3,3 +3,5 @@
  - [Pizza ] A favorite food
  - [Learning] A hobby
 
+*adding color*
+Purple
